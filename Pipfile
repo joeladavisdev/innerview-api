@@ -10,10 +10,10 @@ flask = "*"
 flask-sqlalchemy = "*"
 flask-marshmallow = "*"
 flask-heroku = "*"
-heroku = "*"
 psycopg2-binary = "*"
 gunicorn = "*"
 flask-cors = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
